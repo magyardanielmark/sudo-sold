@@ -1,6 +1,6 @@
 # Sudo-Sold
 
-Welcome to TechGearHub, the ultimate e-commerce platform for computer and tech enthusiasts. Our mission is to provide a seamless online shopping experience for all your computer-related needs.
+Welcome to SudoSold, the ultimate e-commerce platform for computer and tech enthusiasts. Our mission is to provide a seamless online shopping experience for all your computer-related needs.
 
 ## Features
 
